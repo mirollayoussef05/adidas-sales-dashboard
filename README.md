@@ -1,15 +1,23 @@
 # Adidas Sales Analysis (Excel)
 
 ## Overview
-This project analyzes Adidas sales data using Excel to identify sales trends, top-performing products, and regional performance.
+
+This project analyzes Adidas sales performance using Microsoft Excel.
+
+The dashboard provides insights into sales trends, product performance, regional sales, and profitability.
 
 ## Tools Used
+
 - Microsoft Excel
-
-## Features
-- Interactive Dashboard
 - Pivot Tables
-- Charts and Visualizations
-- KPI Tracking
+- Pivot Charts
+- Slicers
 
-## Dashboard Preview
+## Key Insights
+
+- Sales performance across regions
+- Best-selling products
+- Revenue trends
+- Profit analysis
+
+## Dashboard Screenshots
